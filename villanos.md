@@ -2,4 +2,4 @@
 
 * Dr. Domm
 * Red Skull
-* Dr. Herrera
+* Capitán América
